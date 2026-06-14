@@ -105,3 +105,15 @@ Channel Number;Channel Name;Channel Type;Rx Frequency;Tx Frequency;Bandwidth (kH
 104;LZ0DPM TS2;Digital;	144,85000;	145,45000;;1;2;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
 105;LZ0DAV TS1;Digital;	438,55000;	430,95000;;1;1;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
 106;LZ0DAV TS2;Digital;	438,55000;	430,95000;;1;2;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+107;SV7O TS1;Digital;	438,15000;	430,55000;;1;1;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+108;SV7O TS2;Digital;	438,15000;	430,55000;;1;2;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+109;SV7N TS1;Digital;	439,07500;	431,47500;;1;1;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+110;SV7N TS2;Digital;	439,07500;	431,47500;;1;2;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+111;SW2I TS1;Digital;	439,15000;	431,55000;;1;1;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+112;SW2I TS2;Digital;	439,15000;	431,55000;;1;2;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+113;SV4O TS1;Digital;	438,68750;	431,08750;;1;1;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+114;SV4O TS2;Digital;	438,68750;	431,08750;;1;2;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+115;SV4P TS1;Digital;	438,66250;	431,06250;;1;1;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+116;SV4P TS2;Digital;	438,66250;	431,06250;;1;2;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+117;SV4M TS1;Digital;	439,37500;	431,77500;;1;1;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+118;SV4M TS2;Digital;	439,37500;	431,77500;;1;2;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
