@@ -97,3 +97,11 @@ Channel Number;Channel Name;Channel Type;Rx Frequency;Tx Frequency;Bandwidth (kH
 96;LZ0PRC;Analogue;	439,10000;	431,50000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
 97;LZ0KOM-R7;Analogue;	145,77500;	145,17500;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
 98;LZ0KON-R4;Analogue;	145,70000;	145,10000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+99;LZ0NRG TS1;Digital;	438,30000;	430,70000;;1;1;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+100;LZ0NRG TS2;Digital;	438,30000;	430,70000;;1;2;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+101;LZ0DAF TS1;Digital;	438,45000;	430,85000;;1;1;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+102;LZ0DAF TS2;Digital;	438,45000;	430,85000;;1;2;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+103;LZ0DPM TS1;Digital;	144,85000;	145,45000;;1;1;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+104;LZ0DPM TS2;Digital;	144,85000;	145,45000;;1;2;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+105;LZ0DAV TS1;Digital;	438,55000;	430,95000;;1;1;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+106;LZ0DAV TS2;Digital;	438,55000;	430,95000;;1;2;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
