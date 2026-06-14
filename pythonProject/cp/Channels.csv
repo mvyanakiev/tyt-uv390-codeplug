@@ -2,7 +2,7 @@ Channel Number;Channel Name;Channel Type;Rx Frequency;Tx Frequency;Bandwidth (kH
 1;Marine 16;Analogue;	156,80000;	156,80000;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
 2;LZ0ATV TS1;Digital;	439,42500;	431,82500;;1;1;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
 3;Marine 12;Analogue;	156,60000;	156,60000;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;Yes
-4;LZ0DOE;Analogue;	145,62500;	145,02500;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;Yes;None;0;0;No
+4;LZ0DOE-R1;Analogue;	145,62500;	145,02500;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;Yes;None;0;0;No
 5;LZ0ATV TS2;Digital;	439,42500;	431,82500;;1;2;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
 6;LZ0DMR TS1;Digital;	439,10000;	431,50000;;1;1;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
 7;LZ0DMR TS2;Digital;	439,10000;	431,50000;;1;2;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
@@ -33,46 +33,58 @@ Channel Number;Channel Name;Channel Type;Rx Frequency;Tx Frequency;Bandwidth (kH
 32;Marine 09;Analogue;	156,45000;	156,45000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
 33;Marine 10;Analogue;	156,50000;	156,50000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
 34;Marine 11;Analogue;	156,55000;	156,55000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-36;Marine 13;Analogue;	156,65000;	156,65000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-37;Marine 14;Analogue;	156,70000;	156,70000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-38;Marine 15;Analogue;	156,75000;	156,75000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-40;Marine 17;Analogue;	156,85000;	156,85000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-41;Marine 18;Analogue;	161,50000;	156,90000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-42;Marine 19;Analogue;	161,55000;	156,95000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-43;Marine 20;Analogue;	161,60000;	157,00000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-44;Marine 21;Analogue;	161,65000;	157,05000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-45;Marine 22;Analogue;	161,70000;	157,10000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-46;Marine 23;Analogue;	161,75000;	157,15000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-47;Marine 24;Analogue;	161,80000;	157,20000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-48;Marine 25;Analogue;	161,85000;	157,25000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-49;Marine 26;Analogue;	161,90000;	157,30000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-50;Marine 27;Analogue;	161,95000;	157,35000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-51;Marine 28;Analogue;	162,00000;	157,40000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-52;Marine 60;Analogue;	160,62500;	156,02500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-53;Marine 61;Analogue;	160,67500;	156,07500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-54;Marine 62;Analogue;	160,72500;	156,12500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-55;Marine 63;Analogue;	160,77500;	156,17500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-56;Marine 64;Analogue;	160,82500;	156,22500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-57;Marine 65;Analogue;	160,87500;	156,27500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-58;Marine 66;Analogue;	160,92500;	156,32500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-59;Marine 67;Analogue;	156,37500;	156,37500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-60;Marine 68;Analogue;	156,42500;	156,42500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-61;Marine 69;Analogue;	156,47500;	156,47500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-62;Marine 71;Analogue;	156,57500;	156,57500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-63;Marine 72;Analogue;	156,62500;	156,62500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-64;Marine 73;Analogue;	156,67500;	156,67500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-65;Marine 74;Analogue;	156,72500;	156,72500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-66;Marine 75;Analogue;	156,77500;	156,77500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-67;Marine 76;Analogue;	156,82500;	156,82500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-68;Marine 77;Analogue;	156,87500;	156,87500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-69;Marine 78;Analogue;	161,52500;	156,92500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-70;Marine 79;Analogue;	161,57500;	156,97500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-71;Marine 80;Analogue;	161,62500;	157,02500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-72;Marine 81;Analogue;	161,67500;	157,07500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-73;Marine 82;Analogue;	161,72500;	157,12500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-74;Marine 83;Analogue;	161,77500;	157,17500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-75;Marine 84;Analogue;	161,82500;	157,22500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-76;Marine 85;Analogue;	161,87500;	157,27500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-77;Marine 86;Analogue;	161,92500;	157,32500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-78;Marine 87;Analogue;	157,37500;	157,37500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-79;Marine 88;Analogue;	157,42500;	157,42500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+35;Marine 13;Analogue;	156,65000;	156,65000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+36;Marine 14;Analogue;	156,70000;	156,70000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+37;Marine 15;Analogue;	156,75000;	156,75000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+38;Marine 17;Analogue;	156,85000;	156,85000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+39;Marine 18;Analogue;	161,50000;	156,90000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+40;Marine 19;Analogue;	161,55000;	156,95000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+41;Marine 20;Analogue;	161,60000;	157,00000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+42;Marine 21;Analogue;	161,65000;	157,05000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+43;Marine 22;Analogue;	161,70000;	157,10000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+44;Marine 23;Analogue;	161,75000;	157,15000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+45;Marine 24;Analogue;	161,80000;	157,20000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+46;Marine 25;Analogue;	161,85000;	157,25000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+47;Marine 26;Analogue;	161,90000;	157,30000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+48;Marine 27;Analogue;	161,95000;	157,35000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+49;Marine 28;Analogue;	162,00000;	157,40000;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+50;Marine 60;Analogue;	160,62500;	156,02500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+51;Marine 61;Analogue;	160,67500;	156,07500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+52;Marine 62;Analogue;	160,72500;	156,12500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+53;Marine 63;Analogue;	160,77500;	156,17500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+54;Marine 64;Analogue;	160,82500;	156,22500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+55;Marine 65;Analogue;	160,87500;	156,27500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+56;Marine 66;Analogue;	160,92500;	156,32500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+57;Marine 67;Analogue;	156,37500;	156,37500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+58;Marine 68;Analogue;	156,42500;	156,42500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+59;Marine 69;Analogue;	156,47500;	156,47500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+60;Marine 71;Analogue;	156,57500;	156,57500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+61;Marine 72;Analogue;	156,62500;	156,62500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+62;Marine 73;Analogue;	156,67500;	156,67500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+63;Marine 74;Analogue;	156,72500;	156,72500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+64;Marine 75;Analogue;	156,77500;	156,77500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+65;Marine 76;Analogue;	156,82500;	156,82500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+66;Marine 77;Analogue;	156,87500;	156,87500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+67;Marine 78;Analogue;	161,52500;	156,92500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+68;Marine 79;Analogue;	161,57500;	156,97500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+69;Marine 80;Analogue;	161,62500;	157,02500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+70;Marine 81;Analogue;	161,67500;	157,07500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+71;Marine 82;Analogue;	161,72500;	157,12500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+72;Marine 83;Analogue;	161,77500;	157,17500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+73;Marine 84;Analogue;	161,82500;	157,22500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+74;Marine 85;Analogue;	161,87500;	157,27500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+75;Marine 86;Analogue;	161,92500;	157,32500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+76;Marine 87;Analogue;	157,37500;	157,37500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+77;Marine 88;Analogue;	157,42500;	157,42500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+78;LZ0WAG-R14;Analogue;	145,35000;	144,75000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+79;LZ0VHF-R0;Analogue;	145,60000;	145,00000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+80;LZ0BOT-R2;Analogue;	145,65000;	145,05000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+81;LZ0TRI;Analogue;	145,67500;	145,07500;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+82;LZ0PTN-R6;Analogue;	145,75000;	145,15000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+83;LZ0TUK;Analogue;	438,10000;	430,50000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+84;LZ0DRN;Analogue;	438,60000;	431,00000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+85;LZ0BGR;Analogue;	439,00000;	431,40000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+86;LZ0FSB;Analogue;	439,15000;	431,55000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+87;LZ0BGM;Analogue;	439,30000;	431,70000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+88;LZ0UHF;Analogue;	439,40000;	431,80000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+89;LZ0MAI;Analogue;	439,57500;	431,97500;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
