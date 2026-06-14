@@ -1,0 +1,24 @@
+Channel Number;Channel Name;Channel Type;Rx Frequency;Tx Frequency;Bandwidth (kHz);Colour Code;Timeslot;Contact;TG List;DMR ID;TS1_TA_Tx;TS2_TA_Tx ID;RX Tone;TX Tone;Squelch;Power;Rx Only;Zone Skip;All Skip;TOT;VOX;No Beep;No Eco;APRS;Latitude;Longitude;Use Location
+1;Marine-16;Analogue;	156,80000;	156,80000;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+2;LZ0ATV TS1;Digital;	439,42500;	431,82500;;1;1;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+3;Marine-12;Analogue;	156,60000;	156,60000;25;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;Yes
+4;LZ0DOE;Analogue;	145,62500;	145,02500;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;Yes;None;0;0;No
+5;LZ0ATV TS2;Digital;	439,42500;	431,82500;;1;2;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+6;LZ0DMR TS1;Digital;	439,10000;	431,50000;;1;1;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+7;LZ0DMR TS2;Digital;	439,10000;	431,50000;;1;2;None;TG BG;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;0;0;No
+8;PMR 01;Analogue;	446,00625;	446,00625;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+9;PMR 02;Analogue;	446,01875;	446,01875;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+10;PMR 03;Analogue;	446,03125;	446,03125;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+11;PMR 04;Analogue;	446,04375;	446,04375;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+12;PMR 05;Analogue;	446,05625;	446,05625;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+13;PMR 06;Analogue;	446,06875;	446,06875;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+14;PMR 07;Analogue;	446,08125;	446,08125;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+15;PMR 08;Analogue;	446,09375;	446,09375;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+16;PMR 09;Analogue;	446,10625;	446,10625;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+17;PMR 10;Analogue;	446,11875;	446,11875;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+18;PMR 11;Analogue;	446,13125;	446,13125;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+19;PMR 12;Analogue;	446,14375;	446,14375;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+20;PMR 13;Analogue;	446,15625;	446,15625;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+21;PMR 14;Analogue;	446,16875;	446,16875;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+22;PMR 15;Analogue;	446,18125;	446,18125;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+23;PMR 16;Analogue;	446,19375;	446,19375;12,5;;;;;;;;None;None;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
