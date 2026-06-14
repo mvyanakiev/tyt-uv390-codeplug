@@ -78,7 +78,7 @@ Channel Number;Channel Name;Channel Type;Rx Frequency;Tx Frequency;Bandwidth (kH
 77;Marine 88;Analogue;	157,42500;	157,42500;12,5;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
 78;LZ0WAG-R14;Analogue;	145,35000;	144,75000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
 79;LZ0VHF-R0;Analogue;	145,60000;	145,00000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
-80;LZ0BOT-R2;Analogue;	145,65000;	145,05000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+80;LZ0BOT-R2;Analogue;	145,65000;	145,05000;25;;;;;;;;79,7;79,7;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
 81;LZ0TRI;Analogue;	145,67500;	145,07500;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
 82;LZ0PTN-R6;Analogue;	145,75000;	145,15000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
 83;LZ0TUK;Analogue;	438,10000;	430,50000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
