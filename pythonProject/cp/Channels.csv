@@ -88,3 +88,12 @@ Channel Number;Channel Name;Channel Type;Rx Frequency;Tx Frequency;Bandwidth (kH
 87;LZ0BGM;Analogue;	439,30000;	431,70000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
 88;LZ0UHF;Analogue;	439,40000;	431,80000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
 89;LZ0MAI;Analogue;	439,57500;	431,97500;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+90;LZ0WOL;Analogue;	145,70000;	145,10000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+91;LZ0RKN;Analogue;	145,72500;	145,12500;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+92;LZ0DDB;Analogue;	438,45000;	430,85000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+93;LZ0MSS;Analogue;	438,85000;	431,25000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+94;LZ0BAN;Analogue;	439,15000;	431,55000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+95;LZ0IOS;Analogue;	439,07500;	431,47500;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+96;LZ0PRC;Analogue;	439,10000;	431,50000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+97;LZ0KOM-R7;Analogue;	145,77500;	145,17500;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
+98;LZ0KON-R4;Analogue;	145,70000;	145,10000;25;;;;;;;;None;88,5;Disabled;Master;No;No;No;0;Off;Yes;No;None;0;0;No
